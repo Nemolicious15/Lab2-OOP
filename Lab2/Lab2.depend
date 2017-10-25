@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1488893397 source:c:\users\costi\desktop\probleme lab oop\lab2\main.cpp
+	<iostream>
+	"functii.h"
+
+1488893653 c:\users\costi\desktop\probleme lab oop\lab2\functii.h
+
+1488893704 source:c:\users\costi\desktop\probleme lab oop\lab2\functii.cpp
+	<iostream>
+	"functii.h"
+	<assert.h>
+	<math.h>
+
